@@ -1,0 +1,10 @@
+hello new changes in master
+
+world
+
+changes happens
+
+line 4 updated in dev
+
+
+this change done locally
