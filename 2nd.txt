@@ -1,0 +1,9 @@
+world
+
+change
+
+changes in master branch...
+i have change in 2nd.txt while working in dev brnach
+
+
+making 2nd stash in second file.
